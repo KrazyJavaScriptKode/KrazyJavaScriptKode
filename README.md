@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on...Turbowarp Extensions
 - 📫 How to reach me...open an issue on my Chat repo
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: you should go to [this repo](github.com/TurboWarp/extensions)
+- ⚡ Fun fact: you should go to [this repo](https://github.com/TurboWarp/extensions)
 
 <!---
 KrazyJavaScriptKode/KrazyJavaScriptKode is a ✨special✨ repository because its `README.md` (this file) appears on your GitHub profile.
